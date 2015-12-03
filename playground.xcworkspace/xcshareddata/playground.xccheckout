@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5419ED4C-0E99-4826-B638-BAC68824DF77</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DFAEC8A015CD928C2D0F65C4A6475648C0522DAE</key>
+		<string>https://github.com/cmcclatchey/Final-Project-Try-2-Tic-tac-toe-edition-.playground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DFAEC8A015CD928C2D0F65C4A6475648C0522DAE</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cmcclatchey/Final-Project-Try-2-Tic-tac-toe-edition-.playground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DFAEC8A015CD928C2D0F65C4A6475648C0522DAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFAEC8A015CD928C2D0F65C4A6475648C0522DAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FinalProjectSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
